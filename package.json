@@ -1,15 +1,19 @@
 {
-  "name": "chat-app",
+  "name": "udemy-node3-chat-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "An example chat applciation project from Udemy's the complete Node.js Developer course.",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon -L src/index.js -e js,hbs"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Wasin Waeosri (plynoi@gmail.com)",
   "license": "MIT",
+  "homepage": "https://github.com/plynoi/node3-chat-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plynoi/node3-chat-app"
+  },
   "devDependencies": {
     "@types/node": "^18.0.0",
     "nodemon": "^2.0.19"
