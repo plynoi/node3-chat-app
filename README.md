@@ -33,6 +33,9 @@ The technologies and services under the hood are as follows:
 5. Open other browser tabs (or windows), and open the **http://localhost:3000/** URL.
 6. Input your preferred username, and *4*'s room name.
 
+## <a id="heroku"></a>Heroku Deployment
+
+The application is hosted on [Heroku](https://www.heroku.com/) Cloud Application Platform at [https://plynoi-chat-application.herokuapp.com/](https://plynoi-chat-application.herokuapp.com/) page.
 
 ## <a id="author"></a>Author
 
