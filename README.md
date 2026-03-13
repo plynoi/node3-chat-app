@@ -1,7 +1,9 @@
 # Node.js WebSocket Chat Application Example
 - version: 1.0.0
-- Last update: Jul 2022
-- Environment: Windows WSL
+- Last update: Mar 2026
+- Author: Wasin Waeosri
+- License: MIT
+- Environment: Any Node.js supported environments
 - Prerequisite: [Nodejs and Internet connection](#prerequisite)
 
 ## <a id="intro"></a>Introduction
@@ -21,11 +23,11 @@ The technologies and services under the hood are as follows:
 ## <a id="running"></a>How To Run 
 
 1. Install application dependencies with the following command.
-    ```
+    ```bash
     $> npm install
     ```
 2. Once the installation process is successful, run the application with the following command
-    ```
+    ```bash
     $> npm run start
     ```
 3. Open the **http://localhost:3000/** URL in your web browser.
